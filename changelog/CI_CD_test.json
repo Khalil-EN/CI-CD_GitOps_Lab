@@ -1,8 +1,8 @@
 {
   "title": "Titre de la notification",
-  "description": "Mise à jour de la version 1.0.0 à la version 1.0.1 de ABC...",
+  "description": "Mise à jour de la version 1.0.0 à la version 1.0.1 de ABCDEF...",
   "environments": ["dev", "staging"],
-  "impact": ["service2", "auth", "log"],
+  "impact": ["service2", "auth"],
   "contacts": [
     "Khalil En (khalil@kheops.dev)",
     "John Doe (john@kheops.dev)"
